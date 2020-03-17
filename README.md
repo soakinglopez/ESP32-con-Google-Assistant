@@ -11,9 +11,9 @@ mucho para hacer domotica, en el mundo del IoT solo basta en ponerlo como un inf
  
  En el siguiente link, explican a detalle como hacerlo, sin embargo yo lo realice usando el tercer link que aparece y usando un google home mini.
  
- https://www.youtube.com/watch?v=XTa6r6hLNB8
+ https://www.youtube.com/watch?v=XTa6r6hLNB8         // video explicativo de como hacer un ejemplo basico.
  
- https://github.com/adafruit/Adafruit_MQTT_Library
+ https://github.com/adafruit/Adafruit_MQTT_Library    // librerias MQTT de adafruit
  
- https://iotdesignpro.com/projects/google-assistant-controlled-led-using-ESP32-and-adafruit-io
+ https://iotdesignpro.com/projects/google-assistant-controlled-led-using-ESP32-and-adafruit-io   // pagina de como hacer un ejemplo basico paso a paso.
  
